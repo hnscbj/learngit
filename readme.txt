@@ -7,3 +7,5 @@ Creating a new branch is quick AND simple.
 test --no-ff
 test stash
 coding:utf-8
+/usr/bin/env
+
